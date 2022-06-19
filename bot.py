@@ -19,7 +19,7 @@ akbotz = Client('link shortener bot',
              bot_token=BOT_TOKEN,
              workers=100)
 
-print("Developer: @AKBotZ , Join & Share Channel")
+print("Developer: @Team_idiots , Join Now")
 print("Bot is Started Now")
 
 @akbotz.on_message(filters.command('start') & filters.private)
